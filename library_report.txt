@@ -1,0 +1,24 @@
+===== LIBRARY REPORT =====
+
+--- BOOKS ---
+1 | Python Basics | Guido Rossum | Available
+2 | C Programming | Dennis Ritchie | Available
+3 | Data Structures | Mark Weiss | Available
+4 | Discrete Maths | Kenneth Rosen | Available
+5 | Digital Logic | Morris Mano | Available
+6 | Higher Engineering | GS Grrehwal | Available
+7 | Harry Potter | J.K Rowling | Available
+8 | Cosmos | Carl Sagan | Available
+9 | Thinking Fast And Slow | Daniel Kahneman | Available
+10 | The Diary Of A Young Girl | Anne Frank | Available
+11 | Computer Science | Author | Available
+12 | Electronic | Author | Available
+13 | Mechanical | Author | Available
+
+--- STUDENTS ---
+101 | Rahul Sharma | Computer Science
+102 | Priya Verma | Electronics
+103 | Aman Singh | Mechanical
+
+--- ISSUE LOG ---
+[102, 2, datetime.date(2026, 9, 25), datetime.date(2026, 10, 9), datetime.date(2026, 9, 25)]

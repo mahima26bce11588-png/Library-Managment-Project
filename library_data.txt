@@ -1,0 +1,13 @@
+1,Python Basics,Guido Rossum,True
+2,C Programming,Dennis Ritchie,True
+3,Data Structures,Mark Weiss,True
+4,Discrete Maths,Kenneth Rosen,True
+5,Digital Logic,Morris Mano,True
+6,Higher Engineering,GS Grrehwal,True
+7,Harry Potter,J.K Rowling,True
+8,Cosmos,Carl Sagan,True
+9,Thinking Fast And Slow,Daniel Kahneman,True
+10,The Diary Of A Young Girl,Anne Frank,True
+11,Computer Science,Author,True
+12,Electronic,Author,True
+13,Mechanical,Author,True
