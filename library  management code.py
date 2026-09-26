@@ -6,6 +6,7 @@
 # Each book is a TUPLE: (book_id, title, author, available)
 # available = True  -> book is in the library
 # available = False -> book is issued to someone
+
 import datetime
 
 books = [
